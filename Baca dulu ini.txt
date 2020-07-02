@@ -1,0 +1,8 @@
+Mystore ver 1
+upload = 2 Juli 2020
+
+nb = untuk database bisa import database mystore.sql 
+
+admin = url = http://localhost/mystore/auth/
+	username = admin
+	pass = qwerty
